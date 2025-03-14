@@ -1,4 +1,3 @@
-#![feature(iter_map_windows)]
 pub fn run() {
     // let newline: char = "\n";
     let problem_input = "73167176531330624919225119674426574742355349194934
