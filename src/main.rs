@@ -9,6 +9,7 @@ mod e_5;
 mod e_6;
 mod e_7;
 mod e_8;
+mod e_9;
 
 fn main() {
     e_1::run();
@@ -19,6 +20,7 @@ fn main() {
     e_6::run();
     // seven::run(); // PERF:
     e_8::run();
+    e_9::run();
     e_10::run();
     e_13::run();
     e_14::run();
